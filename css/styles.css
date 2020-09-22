@@ -1,0 +1,21 @@
+h1{
+  color: #66BFBF;
+  font-family: serif;
+}
+h3{
+  color: #132743;
+  font-family: cursive;
+}
+body{
+  background-color:#faf3dd;
+}
+hr{
+  background-color:white;
+  /* border-style: dotted none none; this line works the same as the two lines beneath */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
